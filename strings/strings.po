@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-10-01 23:28+0200\n"
+"PO-Revision-Date: 2026-10-04 21:17+0200\n"
 "Last-Translator: jls17\n"
 "Language-Team: \n"
 "Language: de\n"
@@ -19418,7 +19418,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLEREDIRECTOR.NAME"
 msgid "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Radbolt Reflector</link>"
-msgstr "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Teilchenblitz-Redirector</link>"
+msgstr "<link=\"HIGHENERGYPARTICLEREDIRECTOR\">Teilchenblitz-Redirektor</link>"
 
 #. STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.HIGHENERGYPARTICLESPAWNER.DESC"
@@ -25746,7 +25746,7 @@ msgstr "<link=\"NOSECONEHARVEST\">Bohrkegel</link>"
 msgctxt "STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.DESC"
 msgid "Radbolt generators and reflectors make radiation usable by other buildings."
 msgstr ""
-"Teilchenblitz-Generatoren und -Reflektoren machen die Strahlung für andere "
+"Teilchenblitz-Generatoren und -Redirektoren machen die Strahlung für andere "
 "Gebäude nutzbar."
 
 #. STRINGS.BUILDINGS.PREFABS.NUCLEARREACTOR.EFFECT
@@ -98382,8 +98382,8 @@ msgid ""
 "link>."
 msgstr ""
 "Ein konzentriertes Feld von <style=\"KKeyword\">Teilchenblitzen</style>, das mit "
-"einem <link=\"HIGHENERGYPARTICLEREDIRECTOR\">Teilchenblitzreflektor</link> "
-"weitgehend umgelenkt werden kann."
+"einem <link=\"HIGHENERGYPARTICLEREDIRECTOR\">Teilchenblitzredirektor</link> "
+"weitstgehend umgelenkt werden kann."
 
 #. STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.NAME
 msgctxt "STRINGS.ITEMS.RADIATION.HIGHENERGYPARITCLE.NAME"
